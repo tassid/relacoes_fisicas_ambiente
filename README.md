@@ -97,7 +97,11 @@ relacoes_fisicas_ambiente/
 ├── codigos_python/                   ← notebooks das aulas (Colab)
 │   ├── aula_01.ipynb                 · mapas climatológicos do Paraná
 │   ├── aula_02.ipynb                 · Qo, balanço de radiação e amplitude térmica
-│   └── aula_03.ipynb                 · MZA-FAO passo a passo (Medianeira, soja)
+│   ├── aula_03.ipynb                 · MZA-FAO passo a passo (Medianeira, soja)
+│   └── projeto_01.ipynb              · P1: Maringá, Londrina e Apucarana
+│
+├── relatorio/                        ← Projeto 1 (P1)
+│   └── relatorio_p1.md               · relatório em formato de artigo curto
 │
 ├── codigo_python/
 │   └── aula_04.ipynb                 · solo × clima × água disponível × produtividade
