@@ -103,7 +103,8 @@ relacoes_fisicas_ambiente/
 │   └── projeto_01_sudoeste.ipynb     · P1: Pato Branco, Francisco Beltrão e Dois Vizinhos
 │
 ├── relatorio/                        ← Projeto 1 (P1)
-│   └── relatorio_p1_sudoeste.md      · relatório do P1 em formato de artigo curto
+│   ├── relatorio_p1_sudoeste.md      · relatório do P1 em formato de artigo curto
+│   └── roteiro_apresentacao_p1.md    · roteiro da apresentação do P1
 │
 ├── codigo_python/
 │   └── aula_04.ipynb                 · solo × clima × água disponível × produtividade
